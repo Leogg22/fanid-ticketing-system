@@ -1,0 +1,13 @@
+Leo1041 Tigres Guadalajara Volcan 20/06/23 Media 500
+Ric1041 America Pachuca Azteca 27/06/23 Media 450
+Art1041 Santos Rayados BBVA 25/06/23 VIP 1200
+Pab1041 Tigres Guadalajara Volcan 20/06/23 Economica 300
+Fra1041 America Pachuca Azteca 27/06/23 Economica 250
+Chu1041 Santos Rayados BBVA 25/06/23 VIP 1200
+Jua1041 Tigres Guadalajara Volcan 20/06/23 Media 500
+Rob1041 America Pachuca Azteca 27/06/23 Economica 250
+Est1041 Santos Rayados BBVA 25/06/23 Media 550
+Dan1041 Tigres Guadalajara Volcan 20/06/23 VIP 1000
+Eli1041 Tigres Gaudalajara Volcan 20/06/23 VIP 1000
+Eli1041 Santos Rayados BBVA 25/06/23 VIP 1200
+Jes1041 America Pachuca Azteca 27/06/23 VIP 1150

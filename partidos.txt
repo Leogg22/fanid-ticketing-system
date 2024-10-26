@@ -1,0 +1,3 @@
+1 Santos Rayados BBVA 25/06/23 1200 550 320
+2 America Pachuca Azteca 27/06/23 1150 450 250
+3 Tigres Rayados Volcan 20/06/23 2000 1500 900
